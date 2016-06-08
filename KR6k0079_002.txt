@@ -1,20 +1,19 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:43:54.896600
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:26
 #+TITLE: 天台菩薩戒疏
 #+PROPERTY: CBETA_ID T40n1812
 #+PROPERTY: ID KR6k0079
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 40, No. 1812
 #+PROPERTY: VOL 40
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6k0079_T_000-0580b>¶¶¶
 #+PROPERTY: LASTPB <pb:KR6k0079_T_002-0590a> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 2
 ¶
 ¶
 ¶
-
- 天台菩薩戒疏中¶
+天台菩薩戒疏中¶
 ¶
 天台沙門明曠刪補¶
 

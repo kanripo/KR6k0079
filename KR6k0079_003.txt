@@ -1,20 +1,19 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:43:54.926779
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:26
 #+TITLE: 天台菩薩戒疏
 #+PROPERTY: CBETA_ID T40n1812
 #+PROPERTY: ID KR6k0079
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 40, No. 1812
 #+PROPERTY: VOL 40
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6k0079_T_000-0580b>¶¶¶
 #+PROPERTY: LASTPB <pb:KR6k0079_T_003-0596b> ¶¶¶
 #+PROPERTY: JUAN 3
 ¶
 ¶
 ¶
-
- 天台菩薩戒疏下¶
+天台菩薩戒疏下¶
 ¶
 天台沙門明曠刪補¶
 
@@ -274,7 +273,7 @@
 體恒在(云云)。言對首等者對菩薩僧可滅惡者¶
 請為懺主云。菩薩專志我某甲今請菩薩為¶
 犯輕垢懺悔主。願菩薩為我作懺悔慈愍故¶
-(三說)。次正懺悔(䠒跪合掌)。菩薩專志。我某甲為故不聽¶
+(三說)。次正懺悔(䠒合掌)。菩薩專志。我某甲為故不聽¶
 大乘法等犯輕垢罪。今向菩薩發露懺悔。懺¶
 悔則安樂不懺悔不安樂。憶念發露知而不¶
 敢覆藏。願長老憶我清淨戒身具足清淨布¶
